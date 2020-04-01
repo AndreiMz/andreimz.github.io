@@ -3,7 +3,6 @@ title: "My first title"
 url: /test
 layout: page
 ---
-<div>
-  adfafdoapfadfpojfdapd
-  sfgomsfg[sfogfog
-</div>
+
+1. wow
+2. extra wow

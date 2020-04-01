@@ -1,7 +1,7 @@
 ---
 title: "My first title"
 url: /test
-layout: page
+layout: default
 ---
 
 1. wow
